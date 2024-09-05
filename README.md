@@ -1,2 +1,2 @@
 # Materia-Prog.-Comp.
-Git voltado para os exercícios da matérias de programação de computadores da unipa 
+Git voltado para os exercícios da matéria de programação de computadores da unipar
