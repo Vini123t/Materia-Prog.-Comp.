@@ -3,6 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package br.unipar.lista1.bimestre;
+//Peça ao usuário quantos preços ele deseja informar. Crie um vetor, peça ao 
+//usuario os preços e armazene em cada posição. Depois exiba: O Menor, o Maior e
+//a média dos preço
 
 import javax.swing.JOptionPane;
 
